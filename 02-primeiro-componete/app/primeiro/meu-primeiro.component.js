@@ -15,7 +15,7 @@ var MeuPrimeiroComponent = (function () {
     MeuPrimeiroComponent = __decorate([
         core_1.Component({
             selector: 'meu-primeiro-componente',
-            template: '<h2>Meu primeiro componente Angular 2</h2>'
+            template: '<h2>Meu primeiro componente Angular 2</h2>',
         }), 
         __metadata('design:paramtypes', [])
     ], MeuPrimeiroComponent);
