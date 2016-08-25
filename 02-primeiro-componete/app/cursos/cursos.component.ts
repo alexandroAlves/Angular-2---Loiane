@@ -12,9 +12,9 @@ import { Component } from '@angular/core';
         </ul>
     `,*/
     templateUrl: 'cursos.component.html',
-        
+
 })
-export class CursosComponent{
+export class CursosComponent {
 
     nomePortal = 'Alexandro.traning';
 
