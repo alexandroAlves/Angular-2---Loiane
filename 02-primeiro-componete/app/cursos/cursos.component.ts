@@ -20,7 +20,7 @@ import { CursosService } from './cursos.service';
 export class CursosComponent {
 
     nomePortal = 'Alexandro.traning';
-
+    url = 'http://loiane.com';
     cursos;
 
     constructor(cursosService: CursosService) {
